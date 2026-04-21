@@ -231,8 +231,8 @@ export default function App() {
               <h2>Self Details</h2>
               <p>Name: Lokesh Garg</p>
               <p>Addess: Palwal,Harayana</p>
-              <p>Email: lokesh@gmail.com</p>
-              <p>Phone: 9876543210</p>
+              <p>Email: lokeshgarg0511@gmail.com</p>
+              <p>Phone: 9215340009</p>
             </div>
 
             {/* College Details */}
@@ -241,8 +241,8 @@ export default function App() {
               <p>Mode: Student</p>
               <p>Course: BCA (AI & DS)</p>
               <p>Section: D</p>
-              <p>Roll No: 2501060145</p>
-              <p>Email: 2501060145@krmu.edu.in</p>
+              <p>Roll No: 2501060179</p>
+              <p>Email: 2501060179@krmu.edu.in</p>
               <p>Semester: 2nd</p>
               <p>Year: 1st</p>
               <p>Session: 2025 - 2028</p>
